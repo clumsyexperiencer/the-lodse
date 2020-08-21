@@ -1,0 +1,24 @@
+.thumbnail {
+    border-radius: 0;
+    padding: 0;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.btn.btn-primary {
+    border: none;
+    border-radius: 0;
+    background-color: #953902;
+}
+
+.btn.btn-primary:hover {
+    background-color: #B35703;
+}
+
+.btn.btn-primary:active {
+    background-color: #B35703 !important;
+}
+
+.btn.btn-primary:focus {
+    background-color: #953902 !important;
+}
